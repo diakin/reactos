@@ -43,7 +43,7 @@ END
 
 2 MENU
 BEGIN
-    POPUP "Popup"
+    POPUP "Всплывающее меню"
     BEGIN
         MENUITEM "&Добавить\tCtrl+N", ID_NEW
         MENUITEM SEPARATOR

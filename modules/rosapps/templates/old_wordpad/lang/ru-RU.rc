@@ -77,7 +77,7 @@ END
 
 IDR_POPUP MENU
 BEGIN
-  POPUP "popup"
+  POPUP "Всплывающее меню"
   BEGIN
 
     MENUITEM SEPARATOR
