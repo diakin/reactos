@@ -19,8 +19,8 @@ BEGIN
     IDS_TOOLTIP_DELETE "Delete (DEL)"
     IDS_TOOLTIP_PRINT "Печать (Ctrl+P)"
     IDS_TOOLTIP_SAVEAS "Сохранить как... (Ctrl+S)"
-    IDS_TOOLTIP_MODIFY "Modify (Ctrl+E)"
-    IDS_TOOLTIP_HELP_TOC "Help topics (F1)"
+    IDS_TOOLTIP_MODIFY "Изменить (Ctrl+E)"
+    IDS_TOOLTIP_HELP_TOC "Помощь (F1)"
 END
 
 STRINGTABLE

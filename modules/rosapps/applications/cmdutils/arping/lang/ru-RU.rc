@@ -1,4 +1,4 @@
-/*
+﻿/*
  * PROJECT:     ReactOS
  * LICENSE:     Public Domain
  * FILE:        applications/cmdutils/arping/lang/ru-RU.rc
@@ -19,7 +19,7 @@ BEGIN
     IDS_BAD_OPTION_FORMAT "Неверный формат опции %1.\n\0"
     IDS_BAD_OPTION "Неверная опция %1.\n\0"
     IDS_BAD_PARAMETER "Неверный параметр %1.\n\0"
-    IDS_DEST_MUST_BE_SPECIFIED "Имя или IP адрес узла назначения должно быть указано.\n\0"
+    IDS_DEST_MUST_BE_SPECIFIED "Имя или IP адрес узла назначения должны быть указаны.\n\0"
     IDS_COULD_NOT_INIT_WINSOCK "Не удается инициализировать winsock dll.\n\0"
     IDS_UNKNOWN_HOST "Неизвестный хост %1.\n\0"
     IDS_SRC_MUST_BE_SPECIFIED "IP адрес узла назначения должен быть указан.\n\0"

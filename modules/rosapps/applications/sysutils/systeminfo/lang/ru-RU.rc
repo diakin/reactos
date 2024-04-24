@@ -32,7 +32,7 @@ IDS_USAGE, "SYSTEMINFO [/S система [/U имяПользователя [/P
   SYSTEMINFO\n\
   SYSTEMINFO /?\n\
   SYSTEMINFO /S система\n\
-  SYSTEMINFO /S система /U user\n\
+  SYSTEMINFO /S система /U пользователь\n\
   SYSTEMINFO /S система /U домен\\пользователь /P пароль /FO TABLE\n\
   SYSTEMINFO /S система /FO LIST\n\
   SYSTEMINFO /S система /FO CSV /NH\n"
